@@ -97,3 +97,14 @@ html:lang(zh) .eyebrow,html:lang(ja) .eyebrow,html:lang(ko) .eyebrow{letter-spac
  .gallery-tabs button>span:not(.translated-label){display:none}
  .america-heading{width:280px}
 }
+
+/* Gameplay screenshots retain their complete frame; faction cards show scenes. */
+.gameplay-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 26px}
+.gameplay-grid .art-frame,.faction-gallery .art-frame{aspect-ratio:1338/614;background:#080807}
+.gameplay-grid .art-frame img,.faction-gallery .art-frame img{padding:0;object-fit:contain}
+.gameplay-grid .gallery-card:hover img,.faction-gallery .gallery-card:hover img{transform:none}
+.image-credits{margin-top:12px;color:var(--muted);font-size:12px;max-width:680px}
+.image-credits summary{cursor:pointer;min-height:44px;display:list-item;list-style-position:inside;padding-block:10px;width:fit-content}
+.image-credits summary:focus-visible{outline:2px solid var(--gold);outline-offset:4px}
+.image-credits p{padding:4px 0 12px;line-height:1.6}
+@media(max-width:760px){.gameplay-grid{grid-template-columns:1fr;gap:28px}}

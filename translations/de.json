@@ -1,0 +1,219 @@
+{
+  "nav": [
+    "Zum Inhalt springen",
+    "Menü",
+    "Die Geschichte",
+    "Die Mine erkunden",
+    "Spielmechaniken",
+    "Galerie",
+    "Das Studio",
+    "Steam öffnen",
+    "Sprache"
+  ],
+  "hero": [
+    "Manches sollte begraben bleiben.",
+    "{year} · Unter einer Welt im Krieg",
+    "Oben wütet die Seuche.\nUnten erwacht das Grauen.",
+    "Ein 2D-Horror-Action-Platformer von Zirkon Games im gezeichneten Gothic-Minenstil. Überlebe eine Welt aus Seuche, Krieg und Dämonen tief unter Amerika.",
+    "Gezeichneter 2D-Stil",
+    "Düstere Fantasy",
+    "In Entwicklung"
+  ],
+  "story": [
+    "— Die Geschichte —",
+    "Amerika,",
+    "Eine Seuche. Zwei Fronten.\nEin uralter Feind.",
+    "Die Geschichte lesen",
+    "Amerika, {year}. Eine verheerende Seuche zwingt die Menschen tief unter die Erde. In verlassenen Goldminen entstehen notdürftige Siedlungen aus Holzstreben, Schienen, Laternen und dunklen Schächten.",
+    "Doch auch unter Tage endet der Krieg nicht: Union und Konföderation kämpfen in getrennten Minensektoren um Nahrung, Kohle und Kontrolle.",
+    "Während die Menschen ums Überleben kämpfen, erwacht etwas Altes in der Tiefe. Dämonen, Untote und verdorbene Bergarbeiter kriechen aus vergessenen Tunneln hervor.",
+    "Du spielst einen einsamen Überlebenden und Dämonenjäger, der sich durch gefährliche Minenschächte kämpft, Gold sammelt, Wege freilegt und den Schrecken unter der Erde entgegentritt."
+  ],
+  "map": [
+    "02 / Folge den Schienen",
+    "Jeder Tunnel\nerzählt eine Geschichte.",
+    "Wähle einen Kartenpunkt und entdecke den Ort, seine Menschen und das, was im Dunkeln wartet.",
+    "Interaktive Minenkarte",
+    "Erkundung zurücksetzen ↺",
+    "Feldkarte · {year}",
+    "Nicht maßstabsgetreu",
+    "Oberfläche · Mineneingang",
+    "Unerforschtes",
+    "Gebiet",
+    "N",
+    "Erkundet",
+    "Gefahr",
+    "{count} / 5 Orte",
+    "Schacht {number}",
+    "Bedrohung",
+    "Dein nächster Schritt",
+    "{number} / 05 · Weiter erkunden",
+    "Alle Orte entdeckt",
+    "Fünf Orte. Drei menschliche Fraktionen. Eine gemeinsame Bedrohung.",
+    "Weltkonzept · Namen und Tiefen dienen der Veranschaulichung"
+  ],
+  "locations": [
+    [
+      "Die Zuflucht",
+      "Die Zivilbevölkerung",
+      "Von der Seuche unter die Erde getrieben, haben Zivilisten zwischen Holzstreben und kaltem Fels eine notdürftige Zuflucht errichtet. Familien und Bergleute überleben im Laternenlicht zwischen zwei verfeindeten Fraktionen.",
+      "Gering · Ein brüchiger Frieden",
+      "Sprich mit den Zivilisten.",
+      "Erfahre, welche Teile der Höhlen Union und Konföderation besetzt halten. Die Menschen der Siedlung geben dir einen ersten Einblick in die geteilte Mine."
+    ],
+    [
+      "Unionsposten",
+      "Die Union",
+      "Blaue Uniformen stehen hinter Holzbarrikaden. Unionssoldaten halten die nördlichen Zugangstunnel. Wer die Versorgungswege kontrolliert, hat Macht – selbst so tief unter der Erde.",
+      "Mittel · Bewachter Kontrollpunkt",
+      "Erkenne die Fronten.",
+      "Finde die Verbindungen zwischen den besetzten Tunneln. Behalte einen Rückweg zur zivilen Siedlung im Kopf."
+    ],
+    [
+      "Südschacht",
+      "Die Konföderation",
+      "Konföderierte Soldaten haben sich auf der anderen Seite der Mine verschanzt. Mit der Union teilen sie weder Vorräte noch Vertrauen. Die Kreaturen der Tiefe bedrohen beide Lager.",
+      "Hoch · Umkämpftes Gebiet",
+      "Durchquere eine geteilte Mine.",
+      "Folge den alten Gleisen durch die verfeindeten Gebiete. Jeder Übergang birgt eine ungewisse Begegnung."
+    ],
+    [
+      "Die alte Bahn",
+      "Verlassenes Bergbaugebiet",
+      "Verbogene Schienen verschwinden unter eingestürzten Balken. Eine Draisine steht verlassen im Staub. Zwischen den Überresten des Goldrauschs liegen die Teile für die nächste Reise.",
+      "Mittel · Einsturzgefährdete Tunnel",
+      "Bergen. Reparieren. Tiefer gehen.",
+      "Räume Geröll weg, verbinde die Gleise und berge Maschinen. Die Bahn könnte zur Lebensader der Siedlung werden."
+    ],
+    [
+      "Der Riss",
+      "Die uralte Bedrohung",
+      "Die letzten Holzstützen enden an einem glühenden Riss im Fels. Hier gibt es keine menschlichen Fronten. Nur Dämonen, ruhelose Tote und Laute, die keiner lebenden Kehle entstammen sollten.",
+      "Extrem · Kein sicherer Durchgang",
+      "Erhelle den Weg. Stell dich der Dunkelheit.",
+      "Blicke über den Schein deiner Laterne hinaus. Die tiefsten Tunnel bergen die größte Bedrohung – und den längsten Heimweg."
+    ]
+  ],
+  "features": [
+    "03 / Überlebe den Abstieg",
+    "Dein Licht. Dein Werkzeug.\nDein Weg zurück.",
+    "Ein Einzelspieler-Erlebnis mit Fokus auf Kampf, Erkundung und Überleben.",
+    "Bahne dir einen Weg.",
+    "Erkunde verlassene Goldminen, Schächte und unterirdische Siedlungen. Baue Gold ab, räume versperrte Wege frei und entdecke vergessene Tunnel.",
+    "Finde die alte Bahn",
+    "Verbinde die Tiefen.",
+    "Baue und nutze Schienen, Lampen und Minenobjekte. Erschließe Wege durch die Tiefe und bringe Licht in verlassene Tunnel.",
+    "Zurück zur Zuflucht",
+    "Stell dich dem Grauen.",
+    "Kämpfe mit historischen Waffen, Dynamit und Werkzeugen gegen Dämonen, Untote und verdorbene Bergarbeiter. Atmosphärische Beleuchtung und bedrohliche Schatten begleiten jeden Abstieg.",
+    "Blicke in den Riss"
+  ],
+  "gallery": [
+    "04 / EINBLICKE IN DIE MINE",
+    "Eine Welt, gezeichnet\naus der Dunkelheit.",
+    "Spielszenen und Illustrationen der Minenwelt. Wähle ein Bild, um es näher anzusehen.",
+    "Im Spiel",
+    "Die Fraktionen",
+    "Demons of the Mine befindet sich aktuell in Entwicklung. Inhalte, Gameplay-Elemente und Features können sich bis zur Veröffentlichung noch ändern."
+  ],
+  "art": [
+    [
+      "01 / GOLD-ABLADESTELLE",
+      "Der Alltag einer Minensiedlung.",
+      "Screenshot aus dem Spiel · In Entwicklung",
+      "Screenshot aus dem Spiel: Ein Bergmann mit Laterne steht an der Gold-Abladestelle neben einer Holzhütte und einem Minenwagen."
+    ],
+    [
+      "02 / DIE MINENBAHN",
+      "Eisen, Dampf und Feuer.",
+      "Screenshot aus dem Spiel · In Entwicklung",
+      "Screenshot aus dem Spiel: Eine Dampflokomotive und ein Wagen mit Gatling-Geschütz stehen auf Schienen in der unterirdischen Mine."
+    ],
+    [
+      "03 / BERGBAU",
+      "Gold hinter dem Gestein.",
+      "Screenshot aus dem Spiel · In Entwicklung",
+      "Screenshot aus dem Spiel: Der Spieler zerschlägt mit einer Spitzhacke Felsblöcke und legt Gold in einem dunklen Schacht frei."
+    ],
+    [
+      "01 / Die Union",
+      "Ordnung hinter Barrikaden.",
+      "Die Zivilbevölkerung · Screenshot aus dem Spiel · In Entwicklung",
+      "Screenshot aus dem Spiel: Unionssoldaten bewachen ein hölzernes Festungstor mit Wachtürmen in einer von Laternen beleuchteten Mine.",
+      "Soldaten bewachen die nördlichen Zugangstunnel und die unterirdischen Versorgungswege."
+    ],
+    [
+      "02 / Die Konföderation",
+      "Die andere Seite der Mine.",
+      "Die Union · Ortsillustration",
+      "Konföderierte Soldaten in grauen Uniformen bewachen den Südschacht neben einem Wachturm, Gleisen und Vorratskisten.",
+      "Eine gegnerische Garnison hält den Südschacht. Der Krieg blieb nicht an der Oberfläche."
+    ],
+    [
+      "03 / Die Zivilbevölkerung",
+      "Etwas, das Schutz verdient.",
+      "Die Konföderation · Ortsillustration",
+      "Unterirdische Zivilsiedlung mit Holzhäusern, Mutter und Kind, einem Bergmann mit Laterne und aufgehängter Wäsche.",
+      "Familien und Bergleute teilen sich die wenigen sicheren Kammern zwischen den beiden Lagern."
+    ],
+    [
+      "04 / Die Union",
+      "Unionsposten",
+      "Screenshot aus dem Spiel · In Entwicklung",
+      "Screenshot aus dem Spiel: Unionssoldaten bewachen ein hölzernes Festungstor mit Wachtürmen in einer von Laternen beleuchteten Mine."
+    ]
+  ],
+  "studio": [
+    "Das Studio",
+    "Ein Entwickler.\nEine eigene Spielwelt.",
+    "Ich bin Hasan Turan, Gründer von Zirkon Games und Solo-Entwickler von Demons of the Mine. Ich erschaffe eine düstere Welt aus unterirdischen Siedlungen, verfeindeten Fraktionen und uralten Schrecken.",
+    "Zurück zum Eingang",
+    "Demons of the Mine · In Entwicklung",
+    "Private Vorschau"
+  ],
+  "a11y": [
+    "Hauptnavigation",
+    "Zirkon Games, Startseite",
+    "Steam-Shop in einem neuen Tab öffnen",
+    "Orte in der Mine",
+    "Ausgewählter Ort",
+    "Vorheriger Ort",
+    "Nächster Ort",
+    "Galeriekategorien",
+    "Geschichte schließen",
+    "Bild schließen",
+    "Eine gezeichnete Mine mit Holzstützen, Loren und verzweigten Gleisen. In der fernen Höhle wartet ein riesiger gehörnter Dämon.",
+    "Sprache auf {language} geändert",
+    "Demons of the Mine von Zirkon Games. Amerika, 1861: Eine Seuche treibt die Menschen in Goldminen, wo Bürgerkrieg und uralte Dämonen die Überlebenden bedrohen."
+  ],
+  "scenes": {
+    "tab": "Die Orte",
+    "concept": "Ortsillustration",
+    "view": "Ortsbild ansehen",
+    "showMap": "Auf der Karte erkunden",
+    "shrine": "Das vergessene Heiligtum",
+    "items": [
+      [
+        "Ein wenig Wärme, weit unter der Oberfläche.",
+        "Unterirdische Zivilsiedlung mit Holzhäusern, Mutter und Kind, einem Bergmann mit Laterne und aufgehängter Wäsche."
+      ],
+      [
+        "Blaue Uniformen. Ein bewachter Durchgang.",
+        "Screenshot aus dem Spiel: Unionssoldaten bewachen ein hölzernes Festungstor mit Wachtürmen in einer von Laternen beleuchteten Mine."
+      ],
+      [
+        "Hinter der Barrikade geht der Krieg weiter.",
+        "Konföderierte Soldaten in grauen Uniformen bewachen den Südschacht neben einem Wachturm, Gleisen und Vorratskisten."
+      ],
+      [
+        "Manches hätte begraben bleiben sollen.",
+        "Ein Bergmann mit Laterne betritt eine Höhle mit Schädelaltären, einem Schlangenschrein, einer gravierten Steintafel und brennenden Kerzen."
+      ]
+    ],
+    "screenshot": "Screenshot aus dem Spiel · In Entwicklung"
+  },
+  "credits": [
+    "Bildhinweis",
+    "Einige Ortsillustrationen sind KI-generierte Konzeptgrafiken."
+  ]
+}

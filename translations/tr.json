@@ -1,0 +1,219 @@
+{
+  "nav": [
+    "İçeriğe geç",
+    "Menü",
+    "Hikâye",
+    "Madeni keşfet",
+    "Oynanış",
+    "Galeri",
+    "Stüdyo",
+    "Steam'i aç",
+    "Dil"
+  ],
+  "hero": [
+    "Bazı şeyler gömülü kalmalı.",
+    "{year} · Savaş içindeki bir dünyanın altında",
+    "Yukarıda salgın.\nAşağıda daha büyük bir dehşet.",
+    "Zirkon Games’ten, karanlık ve çizim tarzında gotik maden estetiğine sahip bir 2D korku ve aksiyon platform oyunu. Amerika’nın derinliklerinde salgın, savaş ve iblislerle dolu bir dünyada hayatta kal.",
+    "İllüstrasyon tarzı 2D",
+    "Karanlık fantezi",
+    "Geliştirme aşamasında"
+  ],
+  "story": [
+    "— Hikâye —",
+    "Amerika,",
+    "Bir salgın. İki cephe.\nKadim bir düşman.",
+    "Hikâyeyi oku",
+    "Amerika, {year}. Yıkıcı bir salgın insanları yerin derinliklerine sürükler. Terk edilmiş altın madenlerinde ahşap destekler, raylar, fenerler ve karanlık kuyular arasında derme çatma yerleşimler kurulur.",
+    "Ancak savaş yer altında da sona ermez: Birlik ve Konfederasyon, ayrı maden bölgelerinde yiyecek, kömür ve hâkimiyet için savaşır.",
+    "İnsanlar hayatta kalmaya çalışırken derinliklerde kadim bir varlık uyanır. İblisler, yaşayan ölüler ve yozlaşmış madenciler unutulmuş tünellerden çıkar.",
+    "Yalnız bir hayatta kalan ve iblis avcısını oynarsın. Tehlikeli maden kuyularında savaş, altın topla, yolları aç ve yer altındaki dehşetle yüzleş."
+  ],
+  "map": [
+    "02 / Rayları takip et",
+    "Her tünelin\nbir hikâyesi var.",
+    "Bir işaret seç; o yeri, insanlarını ve karanlıkta bekleyenleri keşfet.",
+    "Etkileşimli maden haritası",
+    "Keşfi sıfırla ↺",
+    "Saha haritası · {year}",
+    "Ölçekli değildir",
+    "Yüzey · maden girişi",
+    "Keşfedilmemiş",
+    "bölge",
+    "K",
+    "Keşfedildi",
+    "Tehlike",
+    "{count} / 5 yer",
+    "Kuyu {number}",
+    "Tehdit",
+    "Sıradaki adımın",
+    "{number} / 05 · Keşfe devam",
+    "Tüm yerler keşfedildi",
+    "Beş yer. Üç insan grubu. Tek bir ortak tehdit.",
+    "Dünya konsepti · İsimler ve derinlikler örnek amaçlıdır"
+  ],
+  "locations": [
+    [
+      "Sığınak",
+      "Siviller",
+      "Salgından kaçıp yer altına sığınan siviller, ahşap kirişlerle soğuk kaya arasında derme çatma bir yerleşim kurdu. Aileler ve madenciler, savaşan iki tarafın arasında fener ışığında hayatta kalmaya çalışıyor.",
+      "Düşük · Kırılgan bir barış",
+      "Sivillerle konuş.",
+      "Mağaraların hangi bölümlerini Birliğin, hangilerini Konfederasyonun kontrol ettiğini öğren. Yerleşimin sakinleri, bölünmüş madeni tanımana yardımcı oluyor."
+    ],
+    [
+      "Birlik karakolu",
+      "Birlik",
+      "Ahşap barikatların ardında mavi üniformalar durur. Birlik askerleri kuzeydeki giriş tünellerini tutar. İkmal yollarını denetleyen, yerin bu kadar altında bile gücü elinde tutar.",
+      "Orta · Silahlı kontrol noktası",
+      "İnsanların cephelerini tanı.",
+      "İşgal altındaki tünellerin bağlantılarını bul. Sivil yerleşime dönebileceğin bir yolu aklında tut."
+    ],
+    [
+      "Güney kuyusu",
+      "Konfederasyon",
+      "Konfederasyon askerleri madenin öbür tarafında mevzilenmiştir. Birlikle ne erzak ne de güven paylaşırlar. Derinlerdeki yaratıklar her iki kampı da tehdit eder.",
+      "Yüksek · Çatışma bölgesi",
+      "Bölünmüş madende yolunu bul.",
+      "Eski rayları izleyerek rakip bölgelerden geç. Her geçiş, sonucu belirsiz bir karşılaşma getirir."
+    ],
+    [
+      "Eski demiryolu",
+      "Terk edilmiş maden bölgesi",
+      "Eğilmiş raylar çöken kirişlerin altında kaybolur. Bir drezin toz içinde hareketsiz durur. Altına hücumun kalıntıları arasında, bir sonraki yolculuğu mümkün kılacak parçalar yatar.",
+      "Orta · Çökme riski",
+      "Topla. Onar. Daha derine in.",
+      "Molozları temizle, rayları birleştir ve makineleri kurtar. Demiryolu yerleşimin can damarı olabilir."
+    ],
+    [
+      "Yarık",
+      "Kadim tehdit",
+      "Son ahşap destekler, kayadaki parlayan yarıkta sona erer. Burada insanlara ait cepheler yoktur. Yalnızca iblisler, huzursuz ölüler ve yaşayan hiçbir boğazdan çıkmaması gereken sesler vardır.",
+      "Aşırı · Güvenli geçiş yok",
+      "Yolu aydınlat. Karanlıkla yüzleş.",
+      "Fenerinin aydınlattığı alanın ötesine bak. En derin tüneller, en büyük tehdidi ve eve giden en uzun yolu gizler."
+    ]
+  ],
+  "features": [
+    "03 / İnişten sağ çık",
+    "Işığın. Aletlerin.\nDönüş yolun.",
+    "Çatışma, keşif ve hayatta kalmaya odaklanan tek oyunculu bir deneyim.",
+    "Kendine yol aç.",
+    "Terk edilmiş altın madenlerini, kuyuları ve yer altı yerleşimlerini keşfet. Altın çıkar, kapalı geçitleri aç ve unutulmuş tünelleri bul.",
+    "Eski demiryolunu bul",
+    "Derinlikleri birbirine bağla.",
+    "Raylar, lambalar ve maden nesneleri inşa et ve kullan. Derinliklerde yollar aç, terk edilmiş tünellere ışık götür.",
+    "Sığınağa dön",
+    "Dehşetle yüzleş.",
+    "Döneme ait silahlar, dinamit ve aletlerle iblislere, yaşayan ölülere ve yozlaşmış madencilere karşı savaş. Atmosferik ışıklar ve tehditkâr gölgeler her inişe eşlik eder.",
+    "Yarığa bak"
+  ],
+  "gallery": [
+    "04 / MADENİN İÇİNDEN",
+    "Karanlıktan\nçizilen bir dünya.",
+    "Oyundan sahneler ve maden dünyasının çizimleri. Yakından görmek için bir görsel seç.",
+    "Oyun içi",
+    "Taraflar",
+    "Demons of the Mine geliştirme aşamasındadır. İçerik, oynanış öğeleri ve özellikler çıkışa kadar değişebilir."
+  ],
+  "art": [
+    [
+      "01 / ALTIN BOŞALTMA",
+      "Bir maden yerleşiminde günlük yaşam.",
+      "Oyun içi ekran görüntüsü · Geliştirme aşamasında",
+      "Oyun içi görüntü: Fener taşıyan madenci, ahşap kulübe ve vagonun yanındaki altın boşaltma noktasında duruyor."
+    ],
+    [
+      "02 / MADEN DEMİRYOLU",
+      "Demir, buhar ve ateş.",
+      "Oyun içi ekran görüntüsü · Geliştirme aşamasında",
+      "Oyun içi görüntü: Buharlı lokomotif ve Gatling taşıyan vagon, yer altındaki raylarda duruyor."
+    ],
+    [
+      "03 / MADENCİLİK",
+      "Kayanın ardındaki altın.",
+      "Oyun içi ekran görüntüsü · Geliştirme aşamasında",
+      "Oyun içi görüntü: Oyuncu karanlık bir kuyuda kazmayla kaya bloklarını kırıyor ve altını açığa çıkarıyor."
+    ],
+    [
+      "01 / Birlik",
+      "Barikatların ardındaki düzen.",
+      "Siviller · Oyun içi ekran görüntüsü · Geliştirme aşamasında",
+      "Oyun içi görüntü: Birlik askerleri, fenerlerle aydınlatılmış madendeki ahşap kale kapısını ve gözetleme kulelerini koruyor.",
+      "Askerler kuzeydeki giriş tünellerini ve yeraltı ikmal yollarını korur."
+    ],
+    [
+      "02 / Konfederasyon",
+      "Madenin öbür tarafı.",
+      "Birlik · Mekân çizimi",
+      "Gri üniformalı Konfederasyon askerleri bir kule, raylar ve erzak sandıkları yanındaki güney geçidini koruyor.",
+      "Rakip bir garnizon güney kuyusunu tutar. Savaş yeryüzünde kalmamıştır."
+    ],
+    [
+      "03 / Siviller",
+      "Korumaya değer bir şey.",
+      "Konfederasyon · Mekân çizimi",
+      "Ahşap evler, bir anne ve çocuk, fener taşıyan bir madenci ve asılı çamaşırların bulunduğu yeraltı sivil yerleşimi.",
+      "Aileler ve madenciler, iki kamp arasındaki az sayıdaki güvenli bölmeyi paylaşır."
+    ],
+    [
+      "04 / Birlik",
+      "Birlik karakolu",
+      "Oyun içi ekran görüntüsü · Geliştirme aşamasında",
+      "Oyun içi görüntü: Birlik askerleri, fenerlerle aydınlatılmış madendeki ahşap kale kapısını ve gözetleme kulelerini koruyor."
+    ]
+  ],
+  "studio": [
+    "Stüdyo",
+    "Tek geliştirici.\nÖzgün bir oyun dünyası.",
+    "Ben Hasan Turan, Zirkon Games’in kurucusu ve Demons of the Mine’ın tek geliştiricisiyim. Yer altı yerleşimleri, rakip gruplar ve kadim dehşetlerle dolu karanlık bir dünya yaratıyorum.",
+    "Girişe dön",
+    "Demons of the Mine · Geliştirme aşamasında",
+    "Özel önizleme"
+  ],
+  "a11y": [
+    "Ana gezinme",
+    "Zirkon Games, ana sayfa",
+    "Steam mağazasını yeni sekmede aç",
+    "Madendeki yerler",
+    "Seçili yer",
+    "Önceki yer",
+    "Sonraki yer",
+    "Galeri kategorileri",
+    "Hikâyeyi kapat",
+    "Görseli kapat",
+    "Ahşap destekleri, maden vagonları ve dallanan rayları olan illüstrasyon tarzındaki bir maden. Uzaktaki mağarada boynuzlu dev bir iblis bekliyor.",
+    "Dil {language} olarak değiştirildi",
+    "Zirkon Games’ten Demons of the Mine. Amerika, 1861: Salgın insanları altın madenlerine sürükler; iç savaş ve kadim iblisler hayatta kalanları tehdit eder."
+  ],
+  "scenes": {
+    "tab": "Mekânlar",
+    "concept": "Mekân çizimi",
+    "view": "Mekân görselini aç",
+    "showMap": "Haritada keşfet",
+    "shrine": "Unutulmuş tapınak",
+    "items": [
+      [
+        "Yüzeyden çok uzakta, biraz sıcaklık.",
+        "Ahşap evler, bir anne ve çocuk, fener taşıyan bir madenci ve asılı çamaşırların bulunduğu yeraltı sivil yerleşimi."
+      ],
+      [
+        "Mavi üniformalar. Korunan bir geçit.",
+        "Oyun içi görüntü: Birlik askerleri, fenerlerle aydınlatılmış madendeki ahşap kale kapısını ve gözetleme kulelerini koruyor."
+      ],
+      [
+        "Barikatın ardında savaş sürüyor.",
+        "Gri üniformalı Konfederasyon askerleri bir kule, raylar ve erzak sandıkları yanındaki güney geçidini koruyor."
+      ],
+      [
+        "Bazı şeyler gömülü kalmalıydı.",
+        "Fenerli bir madenci; kafatası sunakları, yılan sunağı, oyma taş levha ve yanan mumlarla dolu bir mağaraya giriyor."
+      ]
+    ],
+    "screenshot": "Oyun içi ekran görüntüsü · Geliştirme aşamasında"
+  },
+  "credits": [
+    "Görsel bilgisi",
+    "Bazı mekân çizimleri yapay zekâ ile üretilmiş konsept görsellerdir."
+  ]
+}

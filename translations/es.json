@@ -1,0 +1,219 @@
+{
+  "nav": [
+    "Saltar al contenido",
+    "Menú",
+    "La historia",
+    "Explorar la mina",
+    "Jugabilidad",
+    "Galería",
+    "El estudio",
+    "Abrir Steam",
+    "Idioma"
+  ],
+  "hero": [
+    "Hay cosas que deberían seguir enterradas.",
+    "{year} · Bajo un mundo en guerra",
+    "Arriba, una epidemia.\nAbajo, algo peor.",
+    "Un juego de plataformas, acción y terror en 2D de Zirkon Games, con una estética minera gótica e ilustrada. Sobrevive a la epidemia, la guerra y los demonios bajo tierra.",
+    "Estilo 2D ilustrado",
+    "Fantasía oscura",
+    "En desarrollo"
+  ],
+  "story": [
+    "— La historia —",
+    "Estados Unidos,",
+    "Una epidemia. Dos frentes.\nUn enemigo ancestral.",
+    "Leer la historia",
+    "Estados Unidos, {year}. Una epidemia devastadora obliga a la gente a refugiarse bajo tierra. En minas de oro abandonadas surgen asentamientos precarios entre vigas de madera, vías, faroles y pozos oscuros.",
+    "Pero la guerra tampoco termina bajo tierra: la Unión y la Confederación luchan en sectores mineros separados por alimentos, carbón y control.",
+    "Mientras la humanidad lucha por sobrevivir, algo ancestral despierta en las profundidades. Demonios, muertos vivientes y mineros corrompidos emergen de túneles olvidados.",
+    "Eres un superviviente solitario y cazador de demonios. Ábrete paso por peligrosos pozos mineros, reúne oro, despeja caminos y enfréntate a los horrores del subsuelo."
+  ],
+  "map": [
+    "02 / Sigue las vías",
+    "Cada túnel\ntiene una historia.",
+    "Elige un marcador para descubrir un lugar, sus habitantes y lo que aguarda en la oscuridad.",
+    "Mapa interactivo de la mina",
+    "Reiniciar exploración ↺",
+    "Mapa de campo · {year}",
+    "Sin escala",
+    "Superficie · entrada a la mina",
+    "Territorio",
+    "inexplorado",
+    "N",
+    "Explorado",
+    "Peligro",
+    "{count} / 5 lugares",
+    "Pozo {number}",
+    "Amenaza",
+    "Tu próximo paso",
+    "{number} / 05 · Sigue explorando",
+    "Todos los lugares descubiertos",
+    "Cinco lugares. Tres facciones humanas. Una amenaza común.",
+    "Concepto del mundo · Nombres y profundidades ilustrativos"
+  ],
+  "locations": [
+    [
+      "El refugio",
+      "Los civiles",
+      "Expulsados de la superficie por la epidemia, los civiles han levantado un refugio precario entre vigas y roca fría. Familias y mineros sobreviven a la luz de los faroles, atrapados entre dos facciones enfrentadas.",
+      "Baja · Una paz frágil",
+      "Habla con los civiles.",
+      "Descubre qué zonas de las cavernas ocupan la Unión y la Confederación. Los habitantes del asentamiento te ofrecen una primera visión de la mina dividida."
+    ],
+    [
+      "Puesto de la Unión",
+      "La Unión",
+      "Uniformes azules se alzan tras las barricadas de madera. Los soldados de la Unión controlan los túneles de acceso del norte. Quien domina las rutas de suministros tiene el poder, incluso a esta profundidad.",
+      "Media · Control armado",
+      "Reconoce las líneas del frente.",
+      "Encuentra las conexiones entre los túneles ocupados. Ten presente una ruta de regreso al poblado civil."
+    ],
+    [
+      "Pozo del sur",
+      "La Confederación",
+      "Los soldados confederados se han atrincherado al otro lado de la mina. No comparten provisiones ni confianza con la Unión. Las criaturas de las profundidades amenazan a ambos bandos.",
+      "Alta · Terreno disputado",
+      "Recorre una mina dividida.",
+      "Sigue las viejas vías a través de territorios rivales. Cada cruce trae un encuentro incierto."
+    ],
+    [
+      "El viejo ferrocarril",
+      "Zona minera abandonada",
+      "Los raíles torcidos desaparecen bajo vigas derrumbadas. Una vagoneta de palanca yace inmóvil entre el polvo. Entre los restos de la fiebre del oro están las piezas que podrían hacer posible el próximo viaje.",
+      "Media · Túneles inestables",
+      "Recupera. Repara. Desciende.",
+      "Retira escombros, reconecta las vías y recupera maquinaria. El ferrocarril podría convertirse en el sustento del poblado."
+    ],
+    [
+      "La grieta",
+      "La amenaza ancestral",
+      "Los últimos puntales de madera terminan ante una fractura luminosa en la roca. Aquí no hay frentes humanos. Solo demonios, muertos inquietos y sonidos que ninguna garganta viva debería emitir.",
+      "Extrema · Sin paso seguro",
+      "Ilumina el camino. Afronta la oscuridad.",
+      "Mira más allá del alcance de tu farol. Los túneles más profundos esconden la mayor amenaza y el camino más largo a casa."
+    ]
+  ],
+  "features": [
+    "03 / Sobrevive al descenso",
+    "Tu luz. Tus herramientas.\nTu camino de vuelta.",
+    "Una experiencia para un jugador centrada en el combate, la exploración y la supervivencia.",
+    "Ábrete camino.",
+    "Explora minas de oro abandonadas, pozos y asentamientos subterráneos. Extrae oro, despeja pasos bloqueados y descubre túneles olvidados.",
+    "Encuentra el viejo ferrocarril",
+    "Conecta las profundidades.",
+    "Construye y utiliza vías, lámparas y objetos mineros. Abre rutas por las profundidades e ilumina túneles abandonados.",
+    "Vuelve al refugio",
+    "Enfréntate al horror.",
+    "Combate a demonios, muertos vivientes y mineros corrompidos con armas de época, dinamita y herramientas. La iluminación y las sombras amenazantes acompañan cada descenso.",
+    "Asómate a la grieta"
+  ],
+  "gallery": [
+    "04 / DENTRO DE LA MINA",
+    "Un mundo dibujado\ndesde la oscuridad.",
+    "Escenas del juego e ilustraciones del mundo minero. Selecciona una imagen para ampliarla.",
+    "En el juego",
+    "Las facciones",
+    "Demons of the Mine está en desarrollo. El contenido, los elementos jugables y las características pueden cambiar antes del lanzamiento."
+  ],
+  "art": [
+    [
+      "01 / DESCARGA DE ORO",
+      "La vida de un asentamiento minero.",
+      "Captura del juego · En desarrollo",
+      "Captura del juego: un minero con un farol junto a la estación de descarga de oro, una cabaña y una vagoneta."
+    ],
+    [
+      "02 / EL FERROCARRIL",
+      "Hierro, vapor y fuego.",
+      "Captura del juego · En desarrollo",
+      "Captura del juego: una locomotora de vapor y un vagón con una Gatling sobre las vías de la mina."
+    ],
+    [
+      "03 / MINERÍA",
+      "Oro tras la roca.",
+      "Captura del juego · En desarrollo",
+      "Captura del juego: el jugador rompe bloques de roca con un pico y descubre oro en un pozo oscuro."
+    ],
+    [
+      "01 / La Unión",
+      "Orden tras las barricadas.",
+      "Los civiles · Captura del juego · En desarrollo",
+      "Captura del juego: soldados de la Unión vigilan una puerta fortificada de madera y torres de vigilancia en una mina iluminada por faroles.",
+      "Los soldados vigilan los túneles de acceso del norte y las rutas de suministros subterráneas."
+    ],
+    [
+      "02 / La Confederación",
+      "El otro lado de la mina.",
+      "La Unión · Ilustración del lugar",
+      "Soldados confederados con uniformes grises vigilan el paso sur junto a una torre, vías y cajas de suministros.",
+      "Una guarnición rival controla el pozo del sur. La guerra no se quedó en la superficie."
+    ],
+    [
+      "03 / Los civiles",
+      "Algo que merece protección.",
+      "La Confederación · Ilustración del lugar",
+      "Asentamiento civil subterráneo con casas de madera, una madre y su hijo, un minero con una linterna y ropa tendida.",
+      "Familias y mineros comparten las pocas cámaras seguras entre ambos campamentos."
+    ],
+    [
+      "04 / La Unión",
+      "Puesto de la Unión",
+      "Captura del juego · En desarrollo",
+      "Captura del juego: soldados de la Unión vigilan una puerta fortificada de madera y torres de vigilancia en una mina iluminada por faroles."
+    ]
+  ],
+  "studio": [
+    "El estudio",
+    "Un desarrollador.\nUn mundo propio.",
+    "Soy Hasan Turan, fundador de Zirkon Games y único desarrollador de Demons of the Mine. Estoy creando un mundo oscuro de asentamientos subterráneos, facciones rivales y horrores ancestrales.",
+    "Volver a la entrada",
+    "Demons of the Mine · En desarrollo",
+    "Vista previa privada"
+  ],
+  "a11y": [
+    "Navegación principal",
+    "Zirkon Games, inicio",
+    "Abrir la tienda de Steam en una pestaña nueva",
+    "Lugares de la mina",
+    "Lugar seleccionado",
+    "Lugar anterior",
+    "Lugar siguiente",
+    "Categorías de la galería",
+    "Cerrar historia",
+    "Cerrar imagen",
+    "Una mina ilustrada con puntales de madera, vagonetas y vías que se bifurcan. Un enorme demonio con cuernos aguarda en la caverna lejana.",
+    "Idioma cambiado a {language}",
+    "Demons of the Mine de Zirkon Games. Estados Unidos, 1861: una epidemia empuja a la gente a las minas, donde la guerra civil y los demonios amenazan a los supervivientes."
+  ],
+  "scenes": {
+    "tab": "Los lugares",
+    "concept": "Ilustración del lugar",
+    "view": "Ver imagen del lugar",
+    "showMap": "Explorar en el mapa",
+    "shrine": "El santuario olvidado",
+    "items": [
+      [
+        "Un poco de calor, lejos de la superficie.",
+        "Asentamiento civil subterráneo con casas de madera, una madre y su hijo, un minero con una linterna y ropa tendida."
+      ],
+      [
+        "Uniformes azules. Un paso vigilado.",
+        "Captura del juego: soldados de la Unión vigilan una puerta fortificada de madera y torres de vigilancia en una mina iluminada por faroles."
+      ],
+      [
+        "Tras la barricada, la guerra continúa.",
+        "Soldados confederados con uniformes grises vigilan el paso sur junto a una torre, vías y cajas de suministros."
+      ],
+      [
+        "Algunas cosas debieron seguir enterradas.",
+        "Un minero con una linterna entra en una caverna con altares de calaveras, un santuario de serpiente, una losa tallada y velas encendidas."
+      ]
+    ],
+    "screenshot": "Captura del juego · En desarrollo"
+  },
+  "credits": [
+    "Créditos de las imágenes",
+    "Algunas ilustraciones de lugares son arte conceptual generado con IA."
+  ]
+}

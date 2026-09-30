@@ -69,7 +69,7 @@
   bind('#dialog-story-title','story.1','label');
   bind('.america-heading','story.1','attribute','alt');
   bind('.story-heading>.small-label','story.2','formatted'); bind('#story-open','story.3','label');
-  [0,1,2].forEach(i=>{
+  [0,1,2,3].forEach(i=>{
     bind('.story-copy>p:nth-child('+(i+1)+')','story.'+(i+4),'formatted');
     bind('#story-dialog>p:not(.eyebrow):nth-of-type('+(i+2)+')','story.'+(i+4),'formatted');
   });
@@ -94,6 +94,7 @@
   bind('#gallery .eyebrow','gallery.0'); bind('#gallery-title','gallery.1','heading');
   bind('#gallery .section-heading>p','gallery.2'); bind('#tab-world','gallery.3','label'); bind('#tab-factions','gallery.4','label');
   bind('.concept-note','gallery.5');
+  bind('.image-credits summary','credits.0'); bind('.image-credits p','credits.1');
   bind('#tab-places','scenes.tab','label');
   bind('#place-art-open','scenes.view','label');
   bind('.scene-map-link','scenes.showMap','label');
@@ -104,12 +105,12 @@
     bind(base+' .scene-copy','scenes.items.'+i+'.0');
     bind(base+' img','scenes.items.'+i+'.1','attribute','alt');
   });
-  const artIds=['gameplay','settlement','enemies','union','confederation','family'];
+  const artIds=['gold-unloading','locomotive','mining','union','confederation','family','union-gameplay'];
   artIds.forEach((id,i)=>{
     const base='[data-art="'+id+'"]';
     bind(base+' .art-label>span:first-child','art.'+i+'.0'); bind(base+' strong','art.'+i+'.1');
     bind(base,'art.'+i+'.2','attribute','data-caption'); bind(base+' img','art.'+i+'.3','attribute','alt');
-    if(i>2) bind(base+' .card-copy','art.'+i+'.4');
+    if(i>2 && i<6) bind(base+' .card-copy','art.'+i+'.4');
   });
   bind('#studio .eyebrow','studio.0'); bind('#studio h2','studio.1','heading');
   bind('#studio p:not(.eyebrow)','studio.2'); bind('#studio .text-button','studio.3','label');
@@ -129,7 +130,7 @@
     });
     ['refuge','union','south','shrine'].forEach((id,i)=>{
       const title=t(i<3?'locations.'+i+'.0':'scenes.shrine');
-      document.querySelector('[data-art="scene-'+id+'"]').dataset.caption=title+' · '+t('scenes.concept');
+      document.querySelector('[data-art="scene-'+id+'"]').dataset.caption=title+' · '+t(id==='union'?'scenes.screenshot':'scenes.concept');
     });
     // The open viewer follows language changes for both existing art and new scenes.
     const image = document.getElementById('art-dialog-image');
