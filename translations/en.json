@@ -7,7 +7,7 @@
     "Gameplay",
     "Gallery",
     "The studio",
-    "Open Steam",
+    "Wishlist on Steam",
     "Language"
   ],
   "hero": [
@@ -174,7 +174,7 @@
   "a11y": [
     "Main navigation",
     "Zirkon Games, home",
-    "Open Steam store in a new tab",
+    "Demons of the Mine on Steam — wishlist (opens in a new tab)",
     "Locations in the mine",
     "Selected location",
     "Previous location",
@@ -215,5 +215,8 @@
   "credits": [
     "Image credits",
     "Some world illustrations are AI-generated concept art."
-  ]
+  ],
+  "steam": {
+    "short": "Wishlist"
+  }
 }

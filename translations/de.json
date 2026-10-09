@@ -7,7 +7,7 @@
     "Spielmechaniken",
     "Galerie",
     "Das Studio",
-    "Steam öffnen",
+    "Auf Steam zur Wunschliste hinzufügen",
     "Sprache"
   ],
   "hero": [
@@ -174,7 +174,7 @@
   "a11y": [
     "Hauptnavigation",
     "Zirkon Games, Startseite",
-    "Steam-Shop in einem neuen Tab öffnen",
+    "Demons of the Mine auf Steam — Wunschliste (öffnet einen neuen Tab)",
     "Orte in der Mine",
     "Ausgewählter Ort",
     "Vorheriger Ort",
@@ -215,5 +215,8 @@
   "credits": [
     "Bildhinweis",
     "Einige Ortsillustrationen sind KI-generierte Konzeptgrafiken."
-  ]
+  ],
+  "steam": {
+    "short": "Wunschliste"
+  }
 }

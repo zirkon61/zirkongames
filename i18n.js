@@ -59,6 +59,7 @@
   bind('.skip-link','nav.0'); bind('.menu-toggle','nav.1','label');
   ['about','mine','features','gallery','studio'].forEach((id,index) => bind('.nav-link[href="#'+id+'"]','nav.'+(index+2)));
   bind('.mobile-steam, .hero-actions .steam-link','nav.7','label');
+  bind('.header-cta.steam-link, .footer-steam','steam.short','label');
   bind('#language-label','nav.8'); bind('#language-select','nav.8','attribute','aria-label');
   bind('.scene-caption>span:first-child','hero.0','label');
   bind('.intro-heading .eyebrow','hero.1','formatted'); bind('.intro-heading h1','hero.2','heading');

@@ -7,7 +7,7 @@
     "Jogabilidade",
     "Galeria",
     "O estúdio",
-    "Abrir Steam",
+    "Adicionar à lista de desejos no Steam",
     "Idioma"
   ],
   "hero": [
@@ -174,7 +174,7 @@
   "a11y": [
     "Navegação principal",
     "Zirkon Games, início",
-    "Abrir a loja Steam em uma nova aba",
+    "Demons of the Mine no Steam — lista de desejos (abre em uma nova aba)",
     "Locais na mina",
     "Local selecionado",
     "Local anterior",
@@ -215,5 +215,8 @@
   "credits": [
     "Créditos das imagens",
     "Algumas ilustrações de locais são artes conceituais geradas com IA."
-  ]
+  ],
+  "steam": {
+    "short": "Lista de desejos"
+  }
 }

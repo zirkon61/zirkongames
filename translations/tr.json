@@ -7,7 +7,7 @@
     "Oynanış",
     "Galeri",
     "Stüdyo",
-    "Steam'i aç",
+    "Steam'de istek listene ekle",
     "Dil"
   ],
   "hero": [
@@ -174,7 +174,7 @@
   "a11y": [
     "Ana gezinme",
     "Zirkon Games, ana sayfa",
-    "Steam mağazasını yeni sekmede aç",
+    "Steam'de Demons of the Mine — istek listesi (yeni sekmede açılır)",
     "Madendeki yerler",
     "Seçili yer",
     "Önceki yer",
@@ -215,5 +215,8 @@
   "credits": [
     "Görsel bilgisi",
     "Bazı mekân çizimleri yapay zekâ ile üretilmiş konsept görsellerdir."
-  ]
+  ],
+  "steam": {
+    "short": "İstek listesi"
+  }
 }
