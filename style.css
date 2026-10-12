@@ -108,3 +108,15 @@ html:lang(zh) .eyebrow,html:lang(ja) .eyebrow,html:lang(ko) .eyebrow{letter-spac
 .image-credits summary:focus-visible{outline:2px solid var(--gold);outline-offset:4px}
 .image-credits p{padding:4px 0 12px;line-height:1.6}
 @media(max-width:760px){.gameplay-grid{grid-template-columns:1fr;gap:28px}}
+
+/* Official Zirkon Games social profiles. */
+.social-links{display:flex;align-items:center;gap:10px}
+.social-link{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-width:44px;min-height:44px;border:1px solid #655033;background:#17140f;color:var(--gold);transition:background .2s,border-color .2s,color .2s,box-shadow .2s}
+.social-link:hover,.social-link:focus-visible{color:#ffe3ae;background:#2a2216;border-color:#c8a168;box-shadow:0 0 18px #ceaa6814}
+.social-icon{width:21px;height:21px;flex-shrink:0;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.studio-socials{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));max-width:540px;margin-top:26px}
+.studio-socials .social-link{min-height:49px;padding:11px 12px;font:14px var(--sans);letter-spacing:.2px}
+.site-footer{flex-wrap:wrap}
+.footer-socials{gap:8px}
+.footer-socials .social-link{width:44px;height:44px;background:transparent}
+@media(max-width:480px){.studio-socials{gap:8px}.studio-socials .social-link{flex-direction:column;gap:7px;padding:12px 6px;font-size:12px}.site-footer>.footer-steam{margin-left:auto}.footer-socials{width:100%;padding-top:4px}}
